@@ -39,6 +39,16 @@
  - 期望城市：北京
 
 ---
+# 技能清单
+以下均为我熟练使用的技能
+- 后端：java集合/多线程/反射等
+- 后端框架：SpringBoot/Maven/Mybsatis-Plus/SpringMVC等
+- 数据库相关：MySQL/SQLserver等
+- 安装部署：Linux/Docker等
+- Web前端：javascript/jquery/ajax等
+- 前端框架：Vue/HTML5/Bootstrap
+- 版本管理、文档和自动化部署工具：Git/Gitee
+---
 
 # 项目经历 
 ## 健身平台 （ 2022年4月 ~ 2022年6月）
@@ -49,12 +59,4 @@
 
 
 
-# 技能清单
-以下均为我熟练使用的技能
-- 后端：java集合/多线程/反射等
-- 后端框架：SpringBoot/Maven/Mybsatis-Plus/SpringMVC等
-- 数据库相关：MySQL/SQLserver等
-- 安装部署：Linux/Docker等
-- Web前端：javascript/jquery/ajax等
-- 前端框架：Vue/HTML5/Bootstrap
-- 版本管理、文档和自动化部署工具：Git/Gitee
+
