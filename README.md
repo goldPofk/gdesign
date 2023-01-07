@@ -38,9 +38,9 @@
 
 # 个人信息
 
- - 胶布帝/男/1990 
- - 本科/萌鹿大学计算机系 
- - 工作年限：3年
+ - 杨振凯/男/2000.4 
+ - 本科/河北大学/计算机科学与技术 
+ - 工作年限：1年以下
  - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
  - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
  - Github：http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
@@ -107,18 +107,13 @@
  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 # 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
-
 以下均为我熟练使用的技能
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+- Web前端：javascript/jquery/ajax
+- 前端框架：Bootstrap/Vue/HTML5
+- 后端：java集合/多线程/反射
+- 后端框架：SpringBoot/SpringMVC
+- 数据库相关：MySQL/SQLserver
+- 版本管理、文档和自动化部署工具：Git/Gitee
 
 ## 参考技能关键字
 
